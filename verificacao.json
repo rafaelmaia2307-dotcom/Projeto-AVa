@@ -1,0 +1,18 @@
+{
+  "testes": 15,
+  "tabelas": [
+    "equipamento",
+    "medicao",
+    "tecnico_solicitante"
+  ],
+  "campos": 31,
+  "linhas_estrutura": 52,
+  "registros": {
+    "equipamento": 1,
+    "medicao": 28,
+    "tecnico_solicitante": 2
+  },
+  "integridade": "ok",
+  "problemas_fk": [],
+  "versao_sqlite_testada": "3.50.4"
+}

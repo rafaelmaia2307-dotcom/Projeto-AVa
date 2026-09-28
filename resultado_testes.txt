@@ -1,0 +1,20 @@
+test_campos_invalidos (__main__.TestesBanco.test_campos_invalidos) ... ok
+test_exclusao_de_cadastro_com_historico (__main__.TestesBanco.test_exclusao_de_cadastro_com_historico) ... ok
+test_fk_equipamento_inexistente (__main__.TestesBanco.test_fk_equipamento_inexistente) ... ok
+test_fk_tecnico_inexistente (__main__.TestesBanco.test_fk_tecnico_inexistente) ... ok
+test_integridade_e_relacoes (__main__.TestesBanco.test_integridade_e_relacoes) ... ok
+test_nova_execucao_preserva_a_anterior (__main__.TestesBanco.test_nova_execucao_preserva_a_anterior) ... ok
+test_papeis_trocados (__main__.TestesBanco.test_papeis_trocados) ... ok
+test_pares_e_medias (__main__.TestesBanco.test_pares_e_medias) ... ok
+test_reimportacao_diferente_e_recusada (__main__.TestesBanco.test_reimportacao_diferente_e_recusada) ... ok
+test_reimportacao_nao_apaga_conferencia (__main__.TestesBanco.test_reimportacao_nao_apaga_conferencia) ... ok
+test_reimportacao_nao_duplica (__main__.TestesBanco.test_reimportacao_nao_duplica) ... ok
+test_repeticao_da_mesma_leitura (__main__.TestesBanco.test_repeticao_da_mesma_leitura) ... ok
+test_tipo_referenciado_nao_pode_ser_trocado (__main__.TestesBanco.test_tipo_referenciado_nao_pode_ser_trocado) ... ok
+test_tres_diferencas_no_desvio (__main__.TestesBanco.test_tres_diferencas_no_desvio) ... ok
+test_tres_tabelas_e_reexecucao_ddl (__main__.TestesBanco.test_tres_tabelas_e_reexecucao_ddl) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.027s
+
+OK
